@@ -5,3 +5,5 @@ Liam Carroll
 This is for 3.10 of the lab.
 
 Our project is currently a website to allow students interested in entrepreneurship to connect.
+
+Corrected changes made by Anuragini Sinha
